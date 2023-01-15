@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.133806b8.css",
+    "main.js": "/static/js/main.80daa71f.js",
+    "static/media/bg-top.png": "/static/media/bg-top.53cbf8d9df08917a9bc3.png",
+    "static/media/building-value-together.png": "/static/media/building-value-together.b15e665a82526bb4548e.png",
+    "static/media/about-hda.png": "/static/media/about-hda.3020cf08cbf60718f5cb.png",
+    "static/media/Gilroy-Medium.woff": "/static/media/Gilroy-Medium.ce373bda9d6fc8079ced.woff",
+    "static/media/Gilroy-Regular.woff": "/static/media/Gilroy-Regular.a3c2b855b67d26a06217.woff",
+    "static/media/Gilroy-Bold.woff": "/static/media/Gilroy-Bold.b03bf65d324fb433e6a6.woff",
+    "static/media/Gilroy-Black.woff": "/static/media/Gilroy-Black.7df6f06fcefdfa6c7025.woff",
+    "static/media/poster-member-project.png": "/static/media/poster-member-project.8744c29527ddc10104b5.png",
+    "static/media/poster-development-resources.png": "/static/media/poster-development-resources.b63470a5a79f14fd8f70.png",
+    "static/media/Gilroy-Medium.woff2": "/static/media/Gilroy-Medium.d0ae44f281a52cd54e91.woff2",
+    "static/media/Gilroy-Bold.woff2": "/static/media/Gilroy-Bold.2e522be67716d3e71aab.woff2",
+    "static/media/Gilroy-Regular.woff2": "/static/media/Gilroy-Regular.a2fa27187669beec8df9.woff2",
+    "static/media/Gilroy-Black.woff2": "/static/media/Gilroy-Black.2b285582f60a3876c584.woff2",
+    "static/media/poster-join-the-community.png": "/static/media/poster-join-the-community.1dd6ed2aaa1dcfd6e56c.png",
+    "index.html": "/index.html",
+    "main.133806b8.css.map": "/static/css/main.133806b8.css.map",
+    "main.80daa71f.js.map": "/static/js/main.80daa71f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.133806b8.css",
+    "static/js/main.80daa71f.js"
+  ]
+}
